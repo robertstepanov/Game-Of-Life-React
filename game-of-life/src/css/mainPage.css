@@ -74,7 +74,25 @@ body {
 }
 
 .btn-primary {
-  background-color: #fff;
+  background-color: yellow;
+  color: #000;
+}
+
+.btn-primary:hover {
+  background-color: #FFF;
+  color: #000;
+}
+
+.btn-primary:focus {
+  background-color: #FFF;
+  color: #000;
+}
+
+.button {
+  background-color: yellow;
+}
+
+.dropdown {
   color: #000;
 }
 
